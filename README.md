@@ -2,7 +2,7 @@
 
 This repository contains Synapse Notebooks designed for **Microsoft Fabric**, demonstrating core data engineering capabilities using **Apache Spark** and **Delta Lake**. These notebooks serve as comprehensive tutorials for building modern data pipelines, from ingestion and transformation to storage and analysis.
 
-## 1. [Spark Data Engineering & Analytics](6249eae6-fc7e-45c9-860a-99d65a209d51/SynapseNotebook/739419bb-2294-44c9-b9dd-ad54cb5f33ce/spark/spark.ipynb)
+## 1. [Spark Data Engineering & Analytics](spark/SynapseNotebook/15091e7a-8c7f-4004-92e5-c8a828082ef4/Notebook_1/spark.ipynb)
 
 This notebook provides an end-to-end workflow for processing sales order data, covering the entire lifecycle from raw CSV ingestion to visual analytics.
 
